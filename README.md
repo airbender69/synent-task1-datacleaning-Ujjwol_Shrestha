@@ -9,6 +9,7 @@ Approach :
 Missing Values:
 - Filled Age with Median.
 - Filled Embarked with Mode.
+
 Dropped Cabin due to too many missing values.
 Duplicates: Removed all redundant rows using drop_duplicates().
 Data Types: Converted Sex and Embarked to Category types.
