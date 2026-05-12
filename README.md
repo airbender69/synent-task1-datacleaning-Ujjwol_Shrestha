@@ -12,7 +12,7 @@ Approach :
 
 Missing Values:
 - Filled Age with Median.
-- 
+
 - Filled Embarked with Mode.
 
 Dropped Cabin due to too many missing values.
